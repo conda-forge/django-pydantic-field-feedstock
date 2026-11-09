@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.6"
+  version: "0.6.1"
 
 package:
   name: django-pydantic-field
@@ -10,7 +10,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/d/django-pydantic-field/django_pydantic_field-${{ version }}.tar.gz
-    sha256: 222dc7ee7ffe5fed311b3121811e02cbf26b72c763273e83c4241b72f3d8d3e6
+    sha256: db4e1be601ea733cdafed86b197e3b1fb720255780a8edf896f246692da7b247
 
 build:
   number: 0
